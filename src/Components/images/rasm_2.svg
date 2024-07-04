@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_2" viewBox="0 0 251.55 248.66">
+  <defs>
+    <style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:8.71px;}</style>
+  </defs>
+  <path class="cls-1" d="m57.31,143.44v17.37c0,1.45,1.17,2.62,2.62,2.62h8.8c1.45,0,2.62-1.17,2.62-2.62v-17.37"></path>
+  <rect class="cls-1" x="106.54" y="88.43" width="50.65" height="34.07"></rect>
+  <line class="cls-1" x1="131.86" y1="122.49" x2="131.86" y2="88.43"></line>
+  <polyline class="cls-1" points="107.94 156.49 171.41 156.49 171.41 213.77"></polyline>
+  <line class="cls-1" x1="92.32" y1="213.77" x2="92.32" y2="205.27"></line>
+  <line class="cls-1" x1="145" y1="156.49" x2="145" y2="213.77"></line>
+  <line class="cls-1" x1="118.59" y1="156.49" x2="118.59" y2="213.77"></line>
+  <polyline class="cls-1" points="80.67 79.61 131.86 40.47 198.05 91.06"></polyline>
+  <line class="cls-1" x1="224.7" y1="121.91" x2="224.7" y2="213.77"></line>
+  <line class="cls-1" x1="104.9" y1="4.36" x2="75.88" y2="4.36"></line>
+  <polyline class="cls-1" points="80.14 4.36 80.14 21.79 56.09 21.79 44.61 50.99"></polyline>
+  <polyline class="cls-1" points="100.64 4.36 100.64 21.19 204.92 21.19 247.2 121.91 186.95 121.91 186.95 82.58"></polyline>
+  <line class="cls-1" x1="236.17" y1="213.77" x2="82.4" y2="213.77"></line>
+  <polyline class="cls-1" points="66.87 244.3 66.87 206.99 66.87 193.75"></polyline>
+  <line class="cls-1" x1="23.52" y1="193.75" x2="23.52" y2="244.3"></line>
+  <line class="cls-1" x1="45.2" y1="244.3" x2="45.2" y2="203.27"></line>
+  <rect class="cls-1" x="23.4" y="64.24" width="43.61" height="49.05" rx="21.8" ry="21.8"></rect>
+  <line class="cls-1" x1="74.37" y1="244.3" x2="16.02" y2="244.3"></line>
+  <path class="cls-1" d="m34.99,192.19c-3.74,3.74-9.82,3.74-13.56,0l-13.16-13.16c-2.5-2.5-3.91-5.89-3.91-9.43v-18.29c-.01-14.77,11.96-26.74,26.73-26.74h28.22c12.03,0,22.2,7.94,25.56,18.87"></path>
+  <path class="cls-1" d="m23.52,152.13v13.53c0,.96.38,1.88,1.06,2.56l10.41,10.41c3.74,3.74,3.74,9.82,0,13.56h0"></path>
+  <path class="cls-1" d="m36.34,180.33v-32.66c0-2.34,1.9-4.24,4.24-4.24h47.5c2.34,0,4.24,1.9,4.24,4.24v38.51c0,2.34-1.9,4.24-4.24,4.24h-51.7"></path>
+</svg>

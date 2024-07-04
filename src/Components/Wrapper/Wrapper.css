@@ -1,0 +1,80 @@
+.wrapper-container{
+    text-align: center;
+}
+.wrapper-title{
+    margin-top: 50px;
+    font-family: 'Abril Fatface', display;
+    font-weight: 500;
+    font-size: 50px;
+    letter-spacing: -1px;
+    line-height: 1.4em;
+}
+.wrapper-text{
+    margin-bottom: 20px;
+    font-family: 'Abril Fatface', display;
+}
+.wrapper-list{
+    display: flex;
+    gap: 20px;
+}
+.wrapper-btn{
+    margin-top: 35px;
+    width: 350px;
+    height: 40px;   
+    background: rgb(2, 4, 62);
+    color: #FFFFFF;
+    font-family: "Public Sans" ,sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 28px;    
+    border-radius: 3px;
+    border: none;
+    padding:0px  5px;
+}
+.wrapper-btn:hover{
+   border:none;
+   background: rgb(237, 237, 10);
+   transition: 0.5s;
+   color: #FFFF;
+   border-radius: 3px;
+   transform: scale(1.1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:580px){
+    .wrapper-btn{
+        font-size: 10px;
+        width: 250px;
+    }
+}

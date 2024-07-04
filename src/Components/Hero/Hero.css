@@ -1,0 +1,22 @@
+.hero{
+    background-image: url(../images/rasm_3.webp);
+    background-repeat: no-repeat;
+}
+.hero__container{
+    text-align: center;
+}
+.hero__img{
+    width: 50px;
+    height: 50px;
+}
+.hero__text{
+    margin-top: 20px;
+    color: #FFFF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.hero__title{
+    color: #FFFF;
+    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 300px;
+}
