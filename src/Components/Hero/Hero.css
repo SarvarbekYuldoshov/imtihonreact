@@ -1,6 +1,7 @@
 .hero{
     background-image: url(../images/rasm_3.webp);
-    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
 }
 .hero__container{
     text-align: center;
