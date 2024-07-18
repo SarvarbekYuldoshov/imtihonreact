@@ -3,6 +3,18 @@
     gap: 40px;
     text-align: center;
 }
+.hover-item-a:hover{
+    transition: 1s;
+    transform: scale(0.90);
+}
+.hover-item-b:hover{
+    transition: 1s;
+    transform: scale(0.90);
+}
+.hover-item-c:hover{
+    transition: 1s;
+    transform: scale(0.90);
+}
 .hover{
     margin-top: -100px;
 }
