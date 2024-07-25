@@ -15,7 +15,7 @@ const Number = () => {
             <h1 className='number-title'>Have a Question? Get in Touch</h1>
             <input className='number-input' type="imail" placeholder='   Name' />
             <br />
-            <input className='number-input' type="imail" placeholder='   Imail Address' />
+            <input className='number-input' type="imail" placeholder='   @sirojidinovich' />
             <br />
             <input className='number-input' type="imail" placeholder='   Message' />
             <br />
